@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReboundDemo</string>
+    <string name="pretty_gril">小清新</string>
+    <string name="action_mode">模式</string>
+    <string name="has_spring">有弹性</string>
+    <string name="no_spring">无弹性</string>
+</resources>
