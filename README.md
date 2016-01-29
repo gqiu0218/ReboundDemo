@@ -6,5 +6,5 @@
        效果不是很好，无奈中使用dialog实现。
        
        
-  附上效果：
-    ReboundDemo/ReboundDemo/gif/效果图.gif
+  ![](/ReboundDemo/ReboundDemo/gif/效果图.gif)
+  
