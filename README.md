@@ -7,4 +7,4 @@
        
        
   附上效果：
-    https://github.com/gqiu0218/ReboundDemo/blob/master/ReboundDemo/gif/%E6%95%88%E6%9E%9C%E5%9B%BE.gif
+    ReboundDemo/ReboundDemo/gif/效果图.gif
