@@ -6,5 +6,5 @@
        效果不是很好，无奈中使用dialog实现。
        
        
-  ![](/ReboundDemo/ReboundDemo/gif/效果图.gif)
+  ![](https://github.com/gqiu0218/ReboundDemo/blob/master/ReboundDemo/gif/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
   
